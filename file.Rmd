@@ -1,0 +1,16 @@
+---
+title: "week10"
+author: "faizan"
+date: "12/05/2021"
+output: bookdown::html_document2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, message=FALSE}
+library(dplyr)
+library(ggplot2)
+```
+
